@@ -1,19 +1,19 @@
-text= 'Shrek Script{Man} Once upon a time there was a lovely princess. /' \
-      'But she had an enchantment upon her of a fearful sort which could only /' \
-      'be broken by loves first kiss./' \
-      'She was locked away in a castle guarded by a terrible fire-breathing /' \
-      'dragon./' \
-      'Many brave knigts had attempted to free her from this dreadful prison, /' \
-      'but non prevailed./' \
-      'She waited in the dragon s keep in the highest room of the tallest /' \
-      'tower for her true love and true love s first kiss.{Laughing}/' \
-      'Like that s ever gonna happen./' \
-      '{Paper Rusting, Toilet Flushes}/' \
-      'What a load of - /' \
-      'Somebody once told me the world is gonna roll me/' \
+text= 'Shrek Script{Man} Once upon a time there was a lovely princess. ' \
+      'But she had an enchantment upon her of a fearful sort which could only ' \
+      'be broken by loves first kiss.' \
+      'She was locked away in a castle guarded by a terrible fire-breathing ' \
+      'dragon.' \
+      'Many brave knigts had attempted to free her from this dreadful prison, ' \
+      'but non prevailed.' \
+      'She waited in the dragon s keep in the highest room of the tallest ' \
+      'tower for her true love and true love s first kiss.{Laughing}' \
+      'Like that s ever gonna happen.' \
+      '{Paper Rusting, Toilet Flushes}' \
+      'What a load of -' \
+      'Somebody once told me the world is gonna roll me' \
       'I ain t the sharpest tool in the shed\
-      She was lookin kind of dumb with her finger and her thumb/" \
-      "In the shape of an "L" on her forehead'" /" \
+      She was lookin kind of dumb with her finger and her thumb" \
+      "In the shape of an "L" on her forehead'" " \
       "The years start comin' and they don't stop comin'" \
       "Fed to the rules and hit the ground runnin'" \
       "Didn't make sense not to live for fun" \
