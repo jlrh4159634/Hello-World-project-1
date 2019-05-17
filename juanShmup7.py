@@ -1,6 +1,5 @@
 """
 Video 8    min 0 seconds
-
 """
 
 import pygame
